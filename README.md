@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFucWx3ODZ6bjhvOHo1NWpkaWUzNWYxaWFvY3YxcDFndzJocWR5OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnLxAA1LTBMKMkU/giphy.gif" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Keyli Flores</h1>
@@ -49,12 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</div>
 
 ---
 
@@ -67,8 +61,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20views&color=00BFFF&style=flat" alt="profile views" />
-</p>
+
 
 
