@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="160" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBzbW84ZXk1OHY1aDM0cHY2Z2oyZm5pN2o0cjhmazF5cWVzOWZsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Cp938y0736GsPtkUZK/giphy.gif" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Keyli Flores</h1>
